@@ -1,4 +1,12 @@
 int a= 5;
 int b=6;
 int sum=a+b;
-Console.WriteLine($"the sum of a & b s :"+{sum}):
+Console.WriteLine($"the sum of a & b s :"+{sum});
+
+For Subtraction
+
+int a= 5;
+int b=6;
+int sub=a-b;
+Console.WriteLine($"the sub of a & b s :"+{sub});
+
