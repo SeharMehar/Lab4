@@ -10,3 +10,9 @@ int b=6;
 int sub=a-b;
 Console.WriteLine($"the sub of a & b s :"+{sub});
 
+For Multiplication
+
+int a= 5;
+int b=6;
+int Multi=a*b;
+Console.WriteLine($"the sMulti of a & b s :"+{Multi}):
